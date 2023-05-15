@@ -11,7 +11,7 @@ One of the key features of the website is the ability for users to create their 
 
 ### Placing Orders On Their Own Design
 
-Another important feature of the website is the ability for users to purchase their own designs in any number and receive free delivery worldwide
+Another important feature of the website is the ability for users to purchase their own designs in any number and receive free delivery worldwide.
 
 ### Secure Payment with Stripe
 
